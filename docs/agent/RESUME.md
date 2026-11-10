@@ -1,11 +1,12 @@
 # RESUME — 2026-11-10 adopt
+<!-- Rewritten whole at every daily close (skill session-protocol). ≤ 40 lines. Never appended. -->
 
 ## Live state
-- Start folder: D:/My Work/ATech Solutions/Relay Board/relay-qa-sandbox
-- Production: none · nothing deploys
-- Branch: main · adopt commit not pushed
+- Start folder: D:\My Work\ATech Solutions\Relay Board\relay-qa-sandbox
+- Production: none · no deploy
+- Branch: main = origin/main
 - Running: seats none · servers none
-- Fixtures left: `knoco-qa/triage/knoco-qa-pending.md` — Knoco QA fixture, kept as is
+- Fixtures left: none
 
 ## Decisions for you
 - none
@@ -14,15 +15,16 @@
 - none
 
 ## NEXT
-1. no row — first design pass: fill `docs/agent/PROJECT.md` "What this is", single-agent flow
+1. no row — first task: one small item, single-agent flow, guided mode on (baseline item 1)
 
 ## THEN
-- Pick a stack, then fill the five gates in `docs/agent/TEAM-PARAMS.md`
+- none
 
 ## Known half-state shipping — do not file it
-- All gates `none` — no stack yet · closed when a stack is chosen · wrong fix: a vacuous gate script
+- none
 
 ## Standing facts — do not re-derive
-- `.claude/settings.json` loads from the next session started in `D:/My Work/ATech Solutions/Relay Board/relay-qa-sandbox`, not in the session that wrote it
-- Global `core.hooksPath` = `~/.teamtrics/hooks` (`post-commit`); repo git hooks never fire — check: `git config --global core.hooksPath`
-- Team flow unavailable: `CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS` not set — check: `echo $CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS`
+- Global `core.hooksPath` is `~/.teamtrics/hooks`; repo git hooks never fire here. Its `post-commit` exits without `include.teamtrics` — re-check: `git config --global core.hooksPath`
+- `.claude/settings.json` loads from the next session started in `D:\My Work\ATech Solutions\Relay Board\relay-qa-sandbox`, not in the session that wrote it.
+- `enabledPlugins` names marketplace `ATech-Solution/claude-devteam-workflow`; a session here can offer a GitHub install.
+- `knoco-qa/` is the user's Knoco QA fixture. Never edit it; never merge its rulings — re-check: `knoco-qa/triage/knoco-qa-pending.md`

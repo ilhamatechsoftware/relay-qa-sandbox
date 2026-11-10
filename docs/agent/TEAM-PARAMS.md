@@ -27,7 +27,7 @@ on a HEAD export, before deployment.
 ## Paths
 
 - Frozen paths (denied in `.claude/settings.json`): `none`
-- Secret files (read denied): `none` — `.env` and `.env.*` are denied by default
+- Secret files (read denied): `./.env`, `./.env.*` — template defaults, none found
 - Review folder: `docs/agent/review/`
 - Release log: `none`
 
