@@ -1,0 +1,1 @@
+{"_readme":"Team-flow hand-ups. One JSON object per line. Append-only. Fields: ts (ISO 8601 UTC), item, lane, axis (the failing routing field: goal, sites or instrument), turn (how far into the seat life, e.g. slice-1), note. Each line has a matching ledger hand-up row. Procedure: devteam skill distribute-tasks, Hand-ups and lifts."}

@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# devteam workflow — LF in the repository and in every checkout, whatever core.autocrlf says
+* text=auto eol=lf

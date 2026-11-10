@@ -1,0 +1,3 @@
+# devteam workflow — merged into the repo .gitignore; existing lines kept
+.claude/settings.local.json
+*.mutantbak

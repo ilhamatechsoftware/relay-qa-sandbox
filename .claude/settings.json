@@ -1,0 +1,57 @@
+{
+  "$comment": [
+    "Checked-in permissions for this repo. Written by the devteam bootstrap-workflow skill.",
+    "Loads only in a session started in this repo. A session started in a parent folder does not load it.",
+    "deny: secrets, frozen paths, destructive database commands, production data access. Deny applies in every permission mode.",
+    "ask: deploy, push and other lead-only actions. The distribute-tasks batch overlay turns each ask into a deny while seats exist.",
+    "Each shell rule in deny and ask is written twice, Bash(...) and PowerShell(...): the PowerShell tool matches PowerShell rules only.",
+    "Every lift of a deny and its restore is logged in docs/agent/permission-lifts.md."
+  ],
+  "permissions": {
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)"
+    ],
+    "ask": [
+      "Bash(git push*)",
+      "PowerShell(git push*)",
+      "Bash(git -C * push*)",
+      "PowerShell(git -C * push*)",
+      "Bash(env * git push*)",
+      "PowerShell(env * git push*)"
+    ],
+    "allow": [
+      "Bash(git status*)",
+      "PowerShell(git status*)",
+      "Bash(git diff*)",
+      "PowerShell(git diff*)",
+      "Bash(git log*)",
+      "PowerShell(git log*)",
+      "Bash(git show*)",
+      "PowerShell(git show*)",
+      "Bash(git blame*)",
+      "PowerShell(git blame*)",
+      "Bash(git rev-parse*)",
+      "PowerShell(git rev-parse*)",
+      "Bash(git add *)",
+      "PowerShell(git add *)",
+      "Bash(devteam-mutate *)",
+      "PowerShell(devteam-mutate *)",
+      "Bash(devteam-seat-guard *)",
+      "PowerShell(devteam-seat-guard *)",
+      "Bash(devteam-test-repo-wide *)",
+      "PowerShell(devteam-test-repo-wide *)"
+    ]
+  },
+  "extraKnownMarketplaces": {
+    "claude-devteam-workflow": {
+      "source": {
+        "source": "github",
+        "repo": "ATech-Solution/claude-devteam-workflow"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "devteam@claude-devteam-workflow": true
+  }
+}
