@@ -6,7 +6,7 @@
 - Production: none · no deploy
 - Branch: main = origin/main
 - Running: seats none · servers none
-- Fixtures left: none
+- Fixtures left: `knoco-qa/triage/knoco-qa-pending.md` (Knoco QA) · seed batch `docs/plans/2026-11-10-relay-qa-seed/` and triage rows 1–6 (Relay QA)
 
 ## Decisions for you
 - none
@@ -15,10 +15,11 @@
 - none
 
 ## NEXT
-1. no row — first task: one small item, single-agent flow, guided mode on (baseline item 1)
+1. no row — batch 2026-11-10-relay-qa-seed item 02, in flight: `scripts/hello.mjs`
 
 ## THEN
-- none
+- item 03, queue: `CONTRIBUTING.md` note
+- triage pending rows 1–4 stay unruled: Relay QA fixture
 
 ## Known half-state shipping — do not file it
 - none
