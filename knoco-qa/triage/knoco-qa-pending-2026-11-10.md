@@ -4,4 +4,3 @@ A row moves; it is never copied. Cut it from one file and append it to the next 
 
 | # | Finding | Source | Lane | Sev | Filed | Class | Decision |
 |---|---|---|---|---|---|---|---|
-| 1 | what is wrong, observably | where it was found | direct | P2 | 2026-11-10 | class | — |
