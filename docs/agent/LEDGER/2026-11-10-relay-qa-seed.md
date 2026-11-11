@@ -8,3 +8,4 @@
 | 2026-11-10 | state | item 02 in flight · item 03 queue |
 | 2026-11-10 | ruling | ilhamatechsoftware: triage 1 → backlog: accept 2026-11-10 |
 | 2026-11-11 | ruling | ilhamatechsoftware: triage 8 → backlog: accept 2026-11-11 |
+| 2026-11-11 | ruling | ilhamatechsoftware: triage 9 → deferred: defer 2026-11-11 · trigger: [qa-Beta-Test] first CI job |
