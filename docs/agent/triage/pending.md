@@ -9,7 +9,6 @@ Row schema and rules: `README.md` in this folder.
 | 3 | Sandbox has no test runner; all gates `none` · recommend: known gap | relay-qa seed | direct | P2 | 2026-11-10 | gates | |
 | 4 | `.gitattributes` holds a duplicate `text=auto` line · recommend: close, harmless | relay-qa seed | direct | P3 | 2026-11-10 | config | |
 | 7 | [qa] test request from QA exploration | request by ilhamatechsoftware | direct | P3 | 2026-11-10 | request | — |
-| 8 | [qa-Beta-Test] Accept target: HELLO.md has no usage line · recommend: accept | relay-qa seed (run Beta Test) | direct | P3 | 2026-11-11 | docs | |
 | 9 | [qa-Beta-Test] Defer target: no spell check on docs · recommend: defer, trigger: first CI job | relay-qa seed (run Beta Test) | direct | P3 | 2026-11-11 | ci | |
 | 10 | [qa-Beta-Test] Known-gap target: no Windows line-ending check · recommend: known gap | relay-qa seed (run Beta Test) | direct | P3 | 2026-11-11 | config | |
 | 11 | [qa-Beta-Test] Close target: stale TODO in README already fixed · recommend: close | relay-qa seed (run Beta Test) | direct | P3 | 2026-11-11 | docs | |

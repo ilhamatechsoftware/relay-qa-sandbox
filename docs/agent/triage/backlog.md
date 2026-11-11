@@ -7,3 +7,4 @@ Row schema and rules: `README.md` in this folder.
 |---|---|---|---|---|---|---|---|
 | 5 | No `.editorconfig`; editors differ on indent | relay-qa seed | direct | P3 | 2026-11-10 | config | accept 2026-11-10: seed row · user · chat |
 | 1 | README has no link to Relay Board · recommend: accept | relay-qa seed | direct | P3 | 2026-11-10 | docs | accept 2026-11-10 |
+| 8 | [qa-Beta-Test] Accept target: HELLO.md has no usage line · recommend: accept | relay-qa seed (run Beta Test) | direct | P3 | 2026-11-11 | docs | accept 2026-11-11 |
