@@ -5,3 +5,4 @@ Row schema and rules: `README.md` in this folder.
 
 | # | Finding | Source | Lane | Sev | Filed | Class | Decision |
 |---|---|---|---|---|---|---|---|
+| 10 | [qa-Beta-Test] Known-gap target: no Windows line-ending check · recommend: known gap | relay-qa seed (run Beta Test) | direct | P3 | 2026-11-11 | config | known gap 2026-11-11: [qa-Beta-Test] note on known gap |

@@ -9,3 +9,4 @@
 | 2026-11-10 | ruling | ilhamatechsoftware: triage 1 → backlog: accept 2026-11-10 |
 | 2026-11-11 | ruling | ilhamatechsoftware: triage 8 → backlog: accept 2026-11-11 |
 | 2026-11-11 | ruling | ilhamatechsoftware: triage 9 → deferred: defer 2026-11-11 · trigger: [qa-Beta-Test] first CI job |
+| 2026-11-11 | ruling | ilhamatechsoftware: triage 10 → known-gaps: known gap 2026-11-11: [qa-Beta-Test] note on known gap |
