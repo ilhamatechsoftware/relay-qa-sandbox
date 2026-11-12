@@ -7,3 +7,4 @@ Row schema and rules: `README.md` in this folder.
 |---|---|---|---|---|---|---|---|
 | 6 | Node version not pinned | relay-qa seed | direct | P3 | 2026-11-10 | config | defer 2026-11-10: no script yet · trigger: first script lands |
 | 9 | [qa-Beta-Test] Defer target: no spell check on docs · recommend: defer, trigger: first CI job | relay-qa seed (run Beta Test) | direct | P3 | 2026-11-11 | ci | defer 2026-11-11 · trigger: [qa-Beta-Test] first CI job |
+| 15 | [qa-RUN-2026-11-12-01] Defer target: no spell check on docs · recommend: defer, trigger: first CI job | relay-qa seed (run RUN-2026-11-12-01) | direct | P3 | 2026-11-12 | ci | defer 2026-11-12 · trigger: [qa-RUN-2026-11-12-01] first CI job |
