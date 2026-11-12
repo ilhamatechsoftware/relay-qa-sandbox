@@ -12,3 +12,4 @@
 | 2026-11-11 | ruling | ilhamatechsoftware: triage 10 → known-gaps: known gap 2026-11-11: [qa-Beta-Test] note on known gap |
 | 2026-11-11 | ruling | ilhamatechsoftware: triage 11 → closed: close 2026-11-11 |
 | 2026-11-11 | ruling | ilhamatechsoftware: triage 12 → backlog: other 2026-11-11: [qa-Beta-Test] QA owner keeps sandbox docs |
+| 2026-11-12 | ruling | ilhamatechsoftware: triage 14 → backlog: accept 2026-11-12 |
