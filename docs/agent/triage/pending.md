@@ -10,5 +10,4 @@ Row schema and rules: `README.md` in this folder.
 | 4 | `.gitattributes` holds a duplicate `text=auto` line · recommend: close, harmless | relay-qa seed | direct | P3 | 2026-11-10 | config | |
 | 7 | [qa] test request from QA exploration | request by ilhamatechsoftware | direct | P3 | 2026-11-10 | request | — |
 | 13 | [qa-Beta-Test] test request | request by ilhamatechsoftware | direct | P3 | 2026-11-11 | request | — |
-| 17 | [qa-RUN-2026-11-12-01] Close target: stale TODO in README already fixed · recommend: close | relay-qa seed (run RUN-2026-11-12-01) | direct | P3 | 2026-11-12 | docs | |
 | 18 | [qa-RUN-2026-11-12-01] Other target: unclear owner for sandbox docs · recommend: other | relay-qa seed (run RUN-2026-11-12-01) | direct | P3 | 2026-11-12 | docs | |

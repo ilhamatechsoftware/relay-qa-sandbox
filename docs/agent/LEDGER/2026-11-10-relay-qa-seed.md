@@ -15,3 +15,4 @@
 | 2026-11-12 | ruling | ilhamatechsoftware: triage 14 → backlog: accept 2026-11-12 |
 | 2026-11-12 | ruling | ilhamatechsoftware: triage 15 → deferred: defer 2026-11-12 · trigger: [qa-RUN-2026-11-12-01] first CI job |
 | 2026-11-12 | ruling | ilhamatechsoftware: triage 16 → known-gaps: known gap 2026-11-12: [qa-RUN-2026-11-12-01] note on known gap |
+| 2026-11-12 | ruling | ilhamatechsoftware: triage 17 → closed: close 2026-11-12 |
