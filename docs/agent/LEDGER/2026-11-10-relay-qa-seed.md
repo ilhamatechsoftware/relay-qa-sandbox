@@ -18,3 +18,4 @@
 | 2026-11-12 | ruling | ilhamatechsoftware: triage 17 → closed: close 2026-11-12 |
 | 2026-11-12 | ruling | ilhamatechsoftware: triage 18 → backlog: other 2026-11-12: [qa-RUN-2026-11-12-01] QA owner keeps sandbox docs |
 | 2026-11-13 | ruling | ilhamatechsoftware: triage 24 → backlog: accept 2026-11-13 |
+| 2026-11-13 | ruling | ilhamatechsoftware: triage 25 → deferred: defer 2026-11-13 · trigger: [qa-RUN-2026-11-13-01] first CI job |
