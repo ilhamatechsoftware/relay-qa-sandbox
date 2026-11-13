@@ -21,3 +21,4 @@
 | 2026-11-13 | ruling | ilhamatechsoftware: triage 25 → deferred: defer 2026-11-13 · trigger: [qa-RUN-2026-11-13-01] first CI job |
 | 2026-11-13 | ruling | ilhamatechsoftware: triage 26 → known-gaps: known gap 2026-11-13: [qa-RUN-2026-11-13-01] note on known gap |
 | 2026-11-13 | ruling | ilhamatechsoftware: triage 27 → closed: close 2026-11-13 |
+| 2026-11-13 | ruling | ilhamatechsoftware: triage 28 → backlog: other 2026-11-13: [qa-RUN-2026-11-13-01] QA owner keeps sandbox docs |
