@@ -15,5 +15,4 @@ Row schema and rules: `README.md` in this folder.
 | 21 | [qa-RUN-2026-11-12-01] Known-gap target: no Windows line-ending check · recommend: known gap | relay-qa seed (run RUN-2026-11-12-01) | direct | P3 | 2026-11-12 | config | |
 | 22 | [qa-RUN-2026-11-12-01] Close target: stale TODO in README already fixed · recommend: close | relay-qa seed (run RUN-2026-11-12-01) | direct | P3 | 2026-11-12 | docs | |
 | 23 | [qa-RUN-2026-11-12-01] Other target: unclear owner for sandbox docs · recommend: other | relay-qa seed (run RUN-2026-11-12-01) | direct | P3 | 2026-11-12 | docs | |
-| 27 | [qa-RUN-2026-11-13-01] Close target: stale TODO in README already fixed · recommend: close | relay-qa seed (run RUN-2026-11-13-01) | direct | P3 | 2026-11-13 | docs | |
 | 28 | [qa-RUN-2026-11-13-01] Other target: unclear owner for sandbox docs · recommend: other | relay-qa seed (run RUN-2026-11-13-01) | direct | P3 | 2026-11-13 | docs | |
