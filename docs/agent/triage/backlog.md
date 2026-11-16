@@ -14,3 +14,4 @@ Row schema and rules: `README.md` in this folder.
 | 24 | [qa-RUN-2026-11-13-01] Accept target: HELLO.md has no usage line · recommend: accept | relay-qa seed (run RUN-2026-11-13-01) | direct | P3 | 2026-11-13 | docs | accept 2026-11-13 |
 | 28 | [qa-RUN-2026-11-13-01] Other target: unclear owner for sandbox docs · recommend: other | relay-qa seed (run RUN-2026-11-13-01) | direct | P3 | 2026-11-13 | docs | other 2026-11-13: [qa-RUN-2026-11-13-01] QA owner keeps sandbox docs |
 | 29 | [qa-RUN-2026-11-16-01] Accept target: HELLO.md has no usage line · recommend: accept | relay-qa seed (run RUN-2026-11-16-01) | direct | P3 | 2026-11-16 | docs | accept 2026-11-16 |
+| 38 | [qa-RUN-2026-11-16-03] Other target: unclear owner for sandbox docs · recommend: other | relay-qa seed (run RUN-2026-11-16-03) | direct | P3 | 2026-11-16 | docs | other 2026-11-16: [qa-RUN-2026-11-16-03] QA owner keeps sandbox docs |
