@@ -20,4 +20,3 @@ Row schema and rules: `README.md` in this folder.
 | 32 | [qa-RUN-2026-11-16-01] Close target: stale TODO in README already fixed · recommend: close | relay-qa seed (run RUN-2026-11-16-01) | direct | P3 | 2026-11-16 | docs | |
 | 33 | [qa-RUN-2026-11-16-01] Other target: unclear owner for sandbox docs · recommend: other | relay-qa seed (run RUN-2026-11-16-01) | direct | P3 | 2026-11-16 | docs | |
 | 34 | [qa-RUN-2026-11-16-03] Accept target: HELLO.md has no usage line · recommend: accept | relay-qa seed (run RUN-2026-11-16-03) | direct | P3 | 2026-11-16 | docs | |
-| 40 | [qa-RUN-2026-11-16-03] request from 2nd account (TC-NOTIFICATIONS-006) | request by fulkrumabighail | direct | P3 | 2026-11-16 | request | — |
