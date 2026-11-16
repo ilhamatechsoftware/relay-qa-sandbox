@@ -9,3 +9,4 @@ Row schema and rules: `README.md` in this folder.
 | 17 | [qa-RUN-2026-11-12-01] Close target: stale TODO in README already fixed · recommend: close | relay-qa seed (run RUN-2026-11-12-01) | direct | P3 | 2026-11-12 | docs | close 2026-11-12 |
 | 27 | [qa-RUN-2026-11-13-01] Close target: stale TODO in README already fixed · recommend: close | relay-qa seed (run RUN-2026-11-13-01) | direct | P3 | 2026-11-13 | docs | close 2026-11-13 |
 | 37 | [qa-RUN-2026-11-16-03] Close target: stale TODO in README already fixed · recommend: close | relay-qa seed (run RUN-2026-11-16-03) | direct | P3 | 2026-11-16 | docs | close 2026-11-16 |
+| 39 | [qa-RUN-2026-11-16-03] test request | request by ilhamatechsoftware | direct | P3 | 2026-11-16 | request | close 2026-11-16 |
