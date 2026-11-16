@@ -15,3 +15,8 @@ Row schema and rules: `README.md` in this folder.
 | 21 | [qa-RUN-2026-11-12-01] Known-gap target: no Windows line-ending check · recommend: known gap | relay-qa seed (run RUN-2026-11-12-01) | direct | P3 | 2026-11-12 | config | |
 | 22 | [qa-RUN-2026-11-12-01] Close target: stale TODO in README already fixed · recommend: close | relay-qa seed (run RUN-2026-11-12-01) | direct | P3 | 2026-11-12 | docs | |
 | 23 | [qa-RUN-2026-11-12-01] Other target: unclear owner for sandbox docs · recommend: other | relay-qa seed (run RUN-2026-11-12-01) | direct | P3 | 2026-11-12 | docs | |
+| 29 | [qa-RUN-2026-11-16-01] Accept target: HELLO.md has no usage line · recommend: accept | relay-qa seed (run RUN-2026-11-16-01) | direct | P3 | 2026-11-16 | docs | |
+| 30 | [qa-RUN-2026-11-16-01] Defer target: no spell check on docs · recommend: defer, trigger: first CI job | relay-qa seed (run RUN-2026-11-16-01) | direct | P3 | 2026-11-16 | ci | |
+| 31 | [qa-RUN-2026-11-16-01] Known-gap target: no Windows line-ending check · recommend: known gap | relay-qa seed (run RUN-2026-11-16-01) | direct | P3 | 2026-11-16 | config | |
+| 32 | [qa-RUN-2026-11-16-01] Close target: stale TODO in README already fixed · recommend: close | relay-qa seed (run RUN-2026-11-16-01) | direct | P3 | 2026-11-16 | docs | |
+| 33 | [qa-RUN-2026-11-16-01] Other target: unclear owner for sandbox docs · recommend: other | relay-qa seed (run RUN-2026-11-16-01) | direct | P3 | 2026-11-16 | docs | |
